@@ -1,5 +1,5 @@
-__author__ = 'gilma_000'
-__author__ = 'gilma_000'
+__author__ = 'Gil Mandler'
+
 
 import re
 import sys
